@@ -1,10 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&family=Inter:wght@300&family=Silkscreen&display=swap');
+
 .App {
   text-align: center;
 }
+
+
+
 body,html {
   margin: 0;
   padding: 0;
   background: rgb(210 97.313 30);
+  font-family: 'Silkscreen', sans-serif;
 }
 * {
   box-sizing: border-box;
